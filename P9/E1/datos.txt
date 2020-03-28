@@ -1,0 +1,2 @@
+   DNI     Edad  Nota
+30481124Y   60    5
