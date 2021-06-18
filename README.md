@@ -1,4 +1,7 @@
-[![IP](https://www.thegreatcoursesplus.com/media/catalog/product/2/0/2074_wtsmmtvkze7rutfx.jpg)](https://www.cplusplus.com/)
+<div align="center">
+    <img width="100%" src="https://www.thegreatcoursesplus.com/media/catalog/product/2/0/2074_wtsmmtvkze7rutfx.jpg" alt="IP">
+</div>
+
 # Instructions:
 The practices are organized as follows:
   
